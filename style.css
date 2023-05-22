@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #bababa;
+}
+.container {
+  margin: 100px 450px;
+  background-color: #ffffff;
+  width: 576px;
+  height: 715px;
+}
+.styl-input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.input0,
+.input1,
+.input2,
+.input3,
+.input4,
+.input5 {
+  width: 58px;
+  height: 54px;
+}
